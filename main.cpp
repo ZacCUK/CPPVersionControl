@@ -10,6 +10,5 @@ void greet()
 
 int main()
 {
-	// greet user now
 	greet();
 }
