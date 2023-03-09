@@ -23,5 +23,8 @@
     <ClInclude Include="Feature.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="dev.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
